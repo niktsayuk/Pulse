@@ -2,17 +2,11 @@
     min-height: 650px;
     padding: 70px 0;
     background-color: #F6F6F6;
-    &__header {
-        color: #0D0D0D;
-        text-align: center;
-        font-size: 30px;
-        font-weight: 700;
-    }
     &__items {
         display: flex;
         justify-content: space-between;
         margin-top: 90px;
-        max-width: 900px;
+        max-width: 950px;
     }
     &__item {
         width: 275px;
